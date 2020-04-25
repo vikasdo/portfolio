@@ -1,2 +1,2 @@
 # portfolio
-my proffesional resume
+my professional resume
