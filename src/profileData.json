@@ -3,30 +3,30 @@
 		"firstName": "Vikas",
 		"lastName": "Donthula",
 		"phoneNumber": "+91-9121374185",
-		"bio": "I am an opensource contributor and have contributed to Zulip, Hasura, Fossasia, Publiclab and many other projects. My tech stack includes Python and Javascript. Python for server side and scripting and Javascript for the frontend. I use Django framework for the server side development and React for the frontend development. I have also worked with GraphQL. I am a GitHub Campus Expert at my insititute where I am responsible for building on campus community. I am the lead organiser of Hack In The North Hackathon and the cofounder of Pragma Conference held at IIIT Allahabad.",
-    "email": "dagaranupam@gmail.com",
+		"bio": "I am an opensource contributor and FullStack developer contributed to automizeapp and many other projects. My tech stack includes Python and Javascript. Python for server side and scripting and Javascript for the frontend. I use Django framework for the server side development . I have also worked with NLP .  ",
+    "email": "donthulavikas1999@gmail.com",
     "linkedin": "https://www.linkedin.com/in/vikas-d-666184158/",
 		"github": "https://github.com/vikasdo"
 	},
 	"experience": [
 		{
-				"position": "GitHub Campus Expert",
-				"organization": "GitHub",
-				"aboutWork": "Responsible for building the on campus community with the support of GitHub.",
-				"fromDate": "August 2018",
-				"toDate": "Present"
+				"position": "Data Analyst and Web  developer ",
+				"organization": "AutomizeApps ",
+				"aboutWork": "•	Facilitated cross-functional team of 5 in 3 locations (Germany, Mumbai ,Hyderabad), ranging from entry-level analysts to CEO, and collaborated with Web development, data science, and operations on Consumer Maps, Consumer Analytics, Competitor Analytics•	Conceptualized the areas of Sentimental Analysis, Folium maps,NLTK, Geopy , Flask ,Pandas and Numpy python libraries during development life-cycle.•	Decreased the load time of maps by 50%, automated Topic wise Feature extraction from texts and optimized the word-cloud files generator.",
+				"fromDate": "Feb 2020",
+				"toDate": "Apr 2020"
 		},
 		{
-			"position": "Opensource Developer Intern",
-			"organization": "Fossasia",
-			"aboutWork": "Contributing to Fossasia's open event server and frontend as an intern. Resolved numerous bugs and added new features to the eventyay platform.",
-			"fromDate": "June 2019",
-			"toDate": "Present"
+			"position": "Crio Student Developer",
+			"organization": "Crio",
+			"aboutWork": "•	Designed a Django application ‘Qeats’ which will fetch the details of nearby restaurants and customer can tag pictures with AI suggestion tags to rate and share the products in Facebook , Pin-interest.Shaped ‘Qbox’  which is a secure file-sharing service. It is a customized version of the popularly available VSFTPD server..Prepared pre-install scripts to run System checks, install And configure QBox.Identified steps to reduce REST API calls in application by 20%",
+			"fromDate": "Dec 2020 ",
+			"toDate": " Feb 2020"
 		},
 		{
-			"position": "Software Developer Intern",
-			"organization": "Hasura",
-			"aboutWork": "Worked on Hasura's GraphQL engine and added new features in it.",
+				"position": "Web Developer Intern",
+			"organization": "Infochord technologies",
+			"aboutWork": "	Utilized PHP, Bootstrap, Javascript , MySQL to develop an internal management Discussion Forum. Built a Two-Factor authentication system.Proposed a database schema and integrated in application.Got exposure to Hostinger, xampp server",
 			"fromDate": "December 2018",
 			"toDate": "January 2019"
 		}
@@ -36,7 +36,7 @@
 			"degree": "Bachelor of Technology",
 			"gpa": "9.1",
 			"fromDate": "August 2017",
-			"toDate": "Present"
+			"toDate": "2021"
 		}
 	],
 	"skills": [{
@@ -69,13 +69,11 @@
 		"paragraphTwo": "When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the front-end web development world."
 	},
 	"awards": [{
-			"awardDetail": "Hack 36 3rd prize winner."
+			"awardDetail": "Awarded  for third prize in hackathon for project sentiment-Analysis on feedback."
 		},
 		{
-			"awardDetail": "Mentor OpenCode'19"
-		},
-		{
-			"awardDetail": "Started North India's First Student Design and Developer Conference."
+			"awardDetail": "Received gold medal  and rewafor National level Science congress for designing methods of improving power consumption in our school"
 		}
+		
 	]
 }
