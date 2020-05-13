@@ -3,7 +3,7 @@
 		"firstName": "Vikas",
 		"lastName": "Donthula",
 		"phoneNumber": "+91-9121374185",
-		"bio": "I am an opensource contributor and have contributed to Zulip, Hasura, Fossasia, Publiclab and many other projects. My tech stack includes Python and Javascript. Python for server side and scripting and Javascript for the frontend. I use Django framework for the server side development and React for the frontend development. I have also worked with GraphQL. I am a GitHub Campus Expert at my insititute where I am responsible for building on campus community. I am the lead organiser of Hack In The North Hackathon and the cofounder of Pragma Conference held at IIIT Allahabad.",
+		"bio": "I am an opensource contributor and FullStack developer contributed to automizeapp and many other projects. My tech stack includes Python and Javascript. Python for server side and scripting and Javascript for the frontend. I use Django framework for the server side development . I have also worked with NLP .  ",
     "email": "donthulavikas1999@gmail.com",
     "linkedin": "https://www.linkedin.com/in/vikas-d-666184158/",
 		"github": "https://github.com/vikasdo"
@@ -41,7 +41,7 @@
 			"degree": "Bachelor of Technology",
 			"gpa": "9.1",
 			"fromDate": "August 2017",
-			"toDate": "Present"
+			"toDate": "2021"
 		}
 	],
 	"skills": [{
@@ -74,7 +74,7 @@
 		"paragraphTwo": "When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the front-end web development world."
 	},
 	"awards": [{
-			"awardDetail": "Hack 36 3rd prize winner."
+			"awardDetail": "Awarded  for third prize in hackathon for project sentiment-Analysis on feedback."
 		},
 		{
 			"awardDetail": "QBox,
@@ -84,5 +84,6 @@
 		{
 			"awardDetail": "Webscraping ecommerce products."
 		}
+		
 	]
 }
