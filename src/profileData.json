@@ -4,31 +4,36 @@
 		"lastName": "Donthula",
 		"phoneNumber": "+91-9121374185",
 		"bio": "I am an opensource contributor and have contributed to Zulip, Hasura, Fossasia, Publiclab and many other projects. My tech stack includes Python and Javascript. Python for server side and scripting and Javascript for the frontend. I use Django framework for the server side development and React for the frontend development. I have also worked with GraphQL. I am a GitHub Campus Expert at my insititute where I am responsible for building on campus community. I am the lead organiser of Hack In The North Hackathon and the cofounder of Pragma Conference held at IIIT Allahabad.",
-    "email": "dagaranupam@gmail.com",
+    "email": "donthulavikas1999@gmail.com",
     "linkedin": "https://www.linkedin.com/in/vikas-d-666184158/",
 		"github": "https://github.com/vikasdo"
 	},
 	"experience": [
+		
 		{
-				"position": "GitHub Campus Expert",
-				"organization": "GitHub",
-				"aboutWork": "Responsible for building the on campus community with the support of GitHub.",
-				"fromDate": "August 2018",
-				"toDate": "Present"
+			"position": "Crio Student Developer",
+			"organization": "Crio",
+			"aboutWork": "I developed a Django application qeats which will fetch the details of  near by restaurants and customer can tag pictures with AI suggestion tags and rate them.
+			Qeats is developed by me as a part of crio development .QEats Restaurant App help restaurant owners and managers in managing their menu (items, availability, prices), order preparation time, order status, order history, and order notifications (like.",
+			"fromDate": "Jan 2020",
+			"toDate": "April 2020"
 		},
 		{
-			"position": "Opensource Developer Intern",
-			"organization": "Fossasia",
-			"aboutWork": "Contributing to Fossasia's open event server and frontend as an intern. Resolved numerous bugs and added new features to the eventyay platform.",
+			"position": "WEB Developer Intern",
+			"organization": "Infochord Technologies Pvt Ltd",
+			"aboutWork": "Worked on front-end widgets,Using the PHP to add functionality,Database management and cleanup,
+			A great place where I learnt how to get knowledge from a mentor and understood this difference between self-study and under guidance one.
+			",
 			"fromDate": "June 2019",
-			"toDate": "Present"
+			"toDate": "July 2019"
 		},
 		{
-			"position": "Software Developer Intern",
-			"organization": "Hasura",
-			"aboutWork": "Worked on Hasura's GraphQL engine and added new features in it.",
-			"fromDate": "December 2018",
-			"toDate": "January 2019"
+			"position": "Website Debugger ",
+			"organization": "Virtula Labs",
+			"aboutWork": "Designed, implemented and monitored web pages and sites for continuous improvement.
+			Tested websites and performed troubleshooting prior to deployment.",
+			"fromDate": "march 2018",
+			"toDate": "January 2018"
 		}
 	],
 	"education": [{
@@ -72,10 +77,12 @@
 			"awardDetail": "Hack 36 3rd prize winner."
 		},
 		{
-			"awardDetail": "Mentor OpenCode'19"
+			"awardDetail": "QBox,
+			A file-sharing system like Dropbox and a secured file-sharing solution for enterprise networks.I also handled different versions in phase of software lifecycle like updating app
+			https://gitlab.crio.do/COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/donthulavikas1999-me_qbox,https://gitlab.crio.do/COHORT_ME_QEATS_REVIEW_MP_ENROLL_LAUNCH_MINI_PROJECT_1/donthu"
 		},
 		{
-			"awardDetail": "Started North India's First Student Design and Developer Conference."
+			"awardDetail": "Webscraping ecommerce products."
 		}
 	]
 }
